@@ -1,5 +1,4 @@
 <h1> Olá, eu sou Rafael</h1>
-[![Meus GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpoh)](https://github.com/anuraghazra/github-readme-stats)
 
  <p> 🌱 Aprendendo mais sobre HTML, CSS e JavaScript</p>
  <div style="display: inline_block ">
