@@ -7,7 +7,7 @@
 
 - 🌱 Aprendendo mais sobre linguagens de programação **HTML, CSS, JS**
 
-- 👨‍💻 Meus projetos estão em desenvolvimento nesse perfil [github.com/rafaelpoh?tab=repositories](github.com/rafaelpoh?tab=repositories)
+- 👨‍💻 Neste Github apresento alguns dos meus projetos, desenvolvidos em cursos ou com os conhecimentos adquiridos no decorrer dos cursos.
 
 - 📫 Meu emal de contato **rafaelperroni89@gmail.com**
 
