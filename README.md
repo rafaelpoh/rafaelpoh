@@ -7,7 +7,7 @@
 
 - 🌱 Aprendendo mais sobre linguagens de programação **HTML, CSS, JS**
 
-- 👨‍💻 Neste Github apresento alguns dos meus projetos, desenvolvidos em cursos ou com os conhecimentos adquiridos no decorrer dos cursos.
+- 👨‍💻 Neste Github apresento alguns dos meus projetos desenvolvidos em cursos ou com os conhecimentos adquiridos no decorrer dos cursos.
 
 - 📫 Meu email de contato **rafaelperroni89@gmail.com**
 
