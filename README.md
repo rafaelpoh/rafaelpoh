@@ -16,6 +16,7 @@
 <h3 align="left">Manda uma conexão lá no linkedin</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafaelperroni" target="blank"><img align="center" src="./icones/linkedin.png" alt="rafael perroni" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelperroni/)
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
