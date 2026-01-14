@@ -1,6 +1,16 @@
-# Rafael Perroni [Portfólio](https://rafaelpoh.github.io/Portfolio)
-## Manda uma conexão lá no linkedin.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelperroni/)
+# Olá, eu sou o Rafael Perroni 👋
+
+Frontend Developer | JavaScript | React
+
+Busco minha primeira oportunidade na área, focando em entregar código limpo e interfaces de alta qualidade.
+
+💻 Atualmente estudando: React.js, Next.js e TypeScript.
+
+🤖 Diferencial: Uso avançado de IA para produtividade e auxílio no desenvolvimento.
+
+🛠️ Ferramentas: VS Code, Git, Tailwind CSS, Figma.
+
+[Meu LinkedIn](https://www.linkedin.com/in/rafaelperroni) | [Meu Portfólio](https://rafaelpoh.github.io/Portfolio/)
 ## Habilidades:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +27,7 @@
 
 ## Mais Sobre Mim:
 
-- 🌱 Aprendendo mais sobre linguagens de programação **HTML, CSS, JS**
+- 🌱 Aprendendo mais sobre **React**.
 
 - 👨‍💻 Neste Github apresento alguns dos meus projetos desenvolvidos em cursos ou com os conhecimentos adquiridos no decorrer dos cursos.
 
