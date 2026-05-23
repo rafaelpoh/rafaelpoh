@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Perroni 👋
 
-Frontend Developer | JavaScript | React
+Frontend Developer | JavaScript |
 
 Busco minha primeira oportunidade na área, focando em entregar código limpo e interfaces de alta qualidade.
 
